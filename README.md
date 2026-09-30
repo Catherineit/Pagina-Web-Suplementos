@@ -1,11 +1,22 @@
+# 💊 E-Commerce de Suplementos y Nutrición
 
-  # Web page for supplement SME
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-  This is a code bundle for Web page for supplement SME. The original project is available at https://www.figma.com/design/FScs3g4FA0u1b2YuZkLY63/Web-page-for-supplement-SME.
+Plataforma web frontend responsiva diseñada para la exhibición, catalogación y venta de suplementos alimenticios, proteínas, multivitamínicos y productos de nutrición deportiva.
 
-  ## Running the code
+---
 
-  Run `npm i` to install the dependencies.
+## 🗂️ Estructura del Proyecto
 
-  Run `npm run dev` to start the development server.
+```text
+.
+├── index.html          # Página principal / Catálogo de productos
+├── assets/
+│   ├── css/            # Hoja de estilos personalizada
+│   ├── js/             # Lógica e interactividad (carrito, filtros, etc.)
+│   └── img/            # Recursos visuales e imágenes de productos
+└── README.md           # Guía e información del repositorio
   
